@@ -39,7 +39,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/noeliadonato"><img src="https://avatars.githubusercontent.com/u/7875216?v=4?s=100" width="100px;" alt="Noelia"/><br /><sub><b>Noelia</b></sub></a><br /><a href="https://github.com/nsdonato/poc-cva/commits?author=nsdonato" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/noeliadonato"><img src="https://avatars.githubusercontent.com/u/7875216?v=4?s=100" width="100px;" alt="Noelia"/><br /><sub><b>Noelia</b></sub></a><br /><a href="https://github.com/nsdonato/poc-cva/commits?author=nsdonato" title="Code">💻</a> <a href="#content-nsdonato" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
